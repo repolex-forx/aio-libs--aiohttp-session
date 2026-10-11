@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-session",
+  "versions": [
+    {
+      "commit": "5060d64ba2447376132ac62ccebe9e9bab3057a0",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:43:30.907275+00:00"
+    }
+  ]
+}
